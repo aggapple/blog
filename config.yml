@@ -1,3 +1,63 @@
-baseURL: http://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: https://aggapple.github.io/ # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Let's tummy time
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+
+DefaultContentLanguage: ko
+
+languages:
+  ko:
+    languageName: "Korean"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Tags
+          url: tags/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
+
+params:
+  env: production
+  title: https://aggapple.github.io
+  author: aggapple
+
+  images: ["papermod-cover.png"]
+
+  ShowShareButtons: true
+  comments: true
+  defaultTheme: auto
+  disableThemeToggle: false
+  disableSpecail1stPost: false
+
+  assets:
+    disableFingerprinting: true
+
+  label:
+    text: "Let's tummy time"
+
+  homeInfoParams:
+    Title: "Tummy time for development"
+    Content: "Android, iOS, Anything or Nothing."
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/aggapple"
+    - name: "instagram"
+      url: "https://www.instagram.com/aggapple/"
+    - name: "youtube"
+      url: "https://www.youtube.com/channel/UCuTr-Xw_gpGQ4aNmbQ60f2w"
