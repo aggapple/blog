@@ -13,7 +13,7 @@ enableEmoji: true
 minify:
   disableXML: true
 
-DefaultContentLanguage: ko
+DefaultContentLanguage: en
 
 languages:
     en:
