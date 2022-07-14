@@ -7,13 +7,13 @@
     --footer-height: 60px;
     --radius: 8px;
     --theme: rgb(255, 255, 255);
-    --entry: rgb(255, 255, 255);
+    --entry: rgb(130, 130, 130, 0.1);
     --primary: rgb(18, 82, 171);
     --secondary: rgb(18, 82, 171, 0.7);
-    --tertiary: rgb(0, 0, 0, 0.1);
+    --tertiary: rgb(130, 130, 130, 0.1);
     --content: rgb(31, 31, 31);
-    --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
+    --hljs-bg: rgb(130, 130, 130, 0.1);
+    --code-bg: rgb(130, 130, 130, 0.1);
     --border: rgb(238, 238, 238);
 }
 
@@ -22,7 +22,7 @@
     --entry: rgb(0, 0, 0, 0.1);
     --primary: rgb(218, 218, 219);
     --secondary: rgb(175, 175, 175);
-    --tertiary: rgb(255, 255, 255, 0.2);
+    --tertiary: rgb(0, 0, 0, 0.1);
     --content: rgb(196, 196, 197);
     --hljs-bg: rgb(0, 0, 0, 0.1);
     --code-bg: rgb(0, 0, 0, 0.1);
