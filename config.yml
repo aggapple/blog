@@ -41,7 +41,7 @@ outputs:
         - JSON
 
 params:
-  color-theme: ocean
+  color-theme: forest
   env: production
   title: https://aggapple.github.io
   author: aggapple
