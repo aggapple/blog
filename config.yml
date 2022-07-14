@@ -50,7 +50,7 @@ params:
 
   ShowShareButtons: true
   comments: true
-  defaultTheme: auto
+  defaultTheme: dark
   disableThemeToggle: false
   disableSpecail1stPost: false
 
