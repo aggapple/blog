@@ -72,4 +72,4 @@ params:
     - name: "youtube"
       url: "https://www.youtube.com/channel/UCuTr-Xw_gpGQ4aNmbQ60f2w"
     - name: "email"
-      url: "aggapple@gmail.com"
+      url: "mailto:aggapple@gmail.com"
