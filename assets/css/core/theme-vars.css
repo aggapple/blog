@@ -12,7 +12,7 @@
     --secondary: rgb(18, 82, 171, 0.7);
     --tertiary: rgb(130, 130, 130, 0.1);
     --content: rgb(31, 31, 31);
-    --hljs-bg: rgb(130, 130, 130, 0.1);
+    --hljs-bg: rgb(18, 82, 171, 1.0);
     --code-bg: rgb(130, 130, 130, 0.1);
     --border: rgb(238, 238, 238);
 }
