@@ -9,6 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
+pygmentsUseClasses: true
 
 minify:
   disableXML: true
@@ -49,10 +50,15 @@ params:
   images: ["papermod-cover.png"]
 
   ShowShareButtons: true
+  ShowReadingTime: true
   comments: true
   defaultTheme: dark
   disableThemeToggle: false
   disableSpecail1stPost: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
 
   assets:
     disableFingerprinting: true
