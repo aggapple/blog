@@ -70,6 +70,11 @@ params:
     Title: "Tummy time for development"
     Content: "Android, iOS, Anything or Nothing."
 
+  taxonomies:
+    category: categories
+    series: series
+    tag: tags
+
   socialIcons:
     - name: "github"
       url: "https://github.com/aggapple"
