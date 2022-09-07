@@ -1,5 +1,5 @@
 ---
-title: "NotificationServiceExtension에서 다운로드 음원 재생하기"
+title: "［iOS／swift］NotificationServiceExtension에서 다운로드 음원 재생하기"
 date: 2022-08-31T12:29:01+09:00
 tags: ["iOS","swift","NotificationServiceExtension","sound","Alamofire","AF"]
 categories: ["iOS"]
