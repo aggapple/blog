@@ -1,5 +1,5 @@
 ---
-title: "Hugo로 Github Pages에 Contents 배포하기"
+title: "［hugo］Hugo로 Github Pages에 Contents 배포하기"
 date: 2022-09-07T14:00:12+09:00
 tags: ["hugo","github","github-pages","contents"]
 categories: ["tools"]
