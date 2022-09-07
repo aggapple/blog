@@ -13,11 +13,11 @@ categories: ["tools"]
 ### 2. 미리보기창 우클릭 후 "Save As HTML.." 선택
 ![](/static/images/20220907160324_01.png)
 ***
-### 4. 저장된 HTML을 Chrome에서 열기
+### 3. 저장된 HTML을 Chrome에서 열기
 ***
-### 5. Chrome 메뉴에서 "인쇄(P)"를 선택 후 인쇄미리보기창 표시
-### 6. 인쇄 대상을 "PDF로 저장"으로 지정 후 저장
-![title](/static/images/20220907160324_02.png)
+### 4. Chrome 메뉴에서 "인쇄(P)"를 선택 후 인쇄미리보기창 표시
+### 5. 인쇄 대상을 "PDF로 저장"으로 지정 후 저장
+![](/static/images/20220907160324_02.png)
 ***
 ### (옵션_1) 페이지 분할 필요 시 html style에 개행 tag 적용
 - 페이지 분할 tag 정의
