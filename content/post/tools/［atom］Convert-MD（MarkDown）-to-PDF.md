@@ -1,7 +1,7 @@
 ---
 title: "［atom］Convert MD（MarkDown） to PDF"
 date: 2022-09-07T16:03:24+09:00
-tags: ["atom","MD","MarkDown","PDF"]
+tags: ["tools","atom","MD","MarkDown","PDF"]
 categories: ["tools"]
 ---
 ####  # Convert MD（MarkDown） to PDF in Atom
