@@ -46,6 +46,8 @@ params:
   env: production
   title: https://aggapple.github.io
   author: aggapple
+  favicon: /favicon.ico
+  useFaviconGenerator: true
 
   images: ["papermod-cover.png"]
 
